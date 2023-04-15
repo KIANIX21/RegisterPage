@@ -74,12 +74,6 @@
 .input-field .input:focus, .input-field .input:valid{
     border-bottom: 1px solid #743ae1;
 }
-.input-field input[type="email"]:valid + label {
-    top: -10px;
-    font-size: 13px;
-    transform: translateY(-20px);
-  }
-  
 .submit{
     border: none;
     outline: none;
